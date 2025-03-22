@@ -9,5 +9,8 @@
         <module name="date" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="date" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
